@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+  
+  header, footer {
+    height: 100px;
+    border: 2px solid black;
+    clear: both;
+}
+  
+section {
+    height: 500px;
+    width: 20%;
+    float: left;
+    border: 1px solid black;
+}
+
+.thickOne {
+    width: 40%;
+}
+
+/* header, footer {
+    height: 200px;
+    border: 1px solid black;
+}
+
+section {
+    height: 200px;
+    border: 1px solid black;
+    flex: 1;
+}
+
+main, .bottom {
+    display: flex;
+} */
